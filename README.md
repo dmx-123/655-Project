@@ -1,2 +1,2 @@
 ## Nonlinear Control (MEEN655) Course Project 
-Basic interpretation of Lorentz System. 
+Focused on stability and feedback linearization of Lorentz System. 
